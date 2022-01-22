@@ -1,0 +1,10 @@
+C:\Users\Loli\source\repos\progressTest\bin\Debug\progressTest.exe.config
+C:\Users\Loli\source\repos\progressTest\bin\Debug\progressTest.exe
+C:\Users\Loli\source\repos\progressTest\bin\Debug\progressTest.pdb
+C:\Users\Loli\source\repos\progressTest\obj\Debug\progressTest.csprojAssemblyReference.cache
+C:\Users\Loli\source\repos\progressTest\obj\Debug\progressTest.Form1.resources
+C:\Users\Loli\source\repos\progressTest\obj\Debug\progressTest.Properties.Resources.resources
+C:\Users\Loli\source\repos\progressTest\obj\Debug\progressTest.csproj.GenerateResource.cache
+C:\Users\Loli\source\repos\progressTest\obj\Debug\progressTest.csproj.CoreCompileInputs.cache
+C:\Users\Loli\source\repos\progressTest\obj\Debug\progressTest.exe
+C:\Users\Loli\source\repos\progressTest\obj\Debug\progressTest.pdb
